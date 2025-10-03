@@ -86,7 +86,7 @@
 ## 🚀 使用方式
 1. Clone 專案：
    ```bash
-   git clone https://github.com/<你的帳號>/CPE_Practice.git
+   git clone https://github.com/kobocawaee/CPE_Practice.git
    ```
 2. 切換到指定題目分類：
    ```bash
